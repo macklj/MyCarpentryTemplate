@@ -1,4 +1,4 @@
-# workshop-template
+# J. Macklin's workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
